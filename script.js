@@ -25,7 +25,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Independente disso, que bom que nós somos ridículos mesmo assim!",
+    text: "Independente da autenticidade, a amizade ridícula é a melhor.
     image: "fotos/1000059490.jpg",
     sound: "ma.mp3"
   },
@@ -40,11 +40,6 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Essa pessoa tem vários nomes.",
-    image: "",
-    sound: "ma.mp3"
-  },
-  {
     text: "marizinha_gameplays me fez apreciar a vida (e as forças ocultas) um pouco mais.",
     image: "fotos/thedevil.jpg",
     sound: "ma.mp3"
@@ -55,7 +50,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Boa sorte!",
+    text: "E vamos tentar mais uma vez.",
     image: "fotos/1000056634.jpg",
     sound: "ma.mp3"
   },
@@ -90,7 +85,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Ela inspirou uma academia de artes no gymrats. Será que o quarto dela mudou?",
+    text: "Ah, lembra da academia de artes no gymrats? Será que o quarto dela mudou?",
     image: "fotos/nse-98606783224790500-1715555341947.jpg.jpg",
     sound: "ma.mp3"
   },
@@ -100,7 +95,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Dá pra sentir o quanto ela ama as pessoas que amam ela.",
+    text: "Dá pra sentir o quanto ela ama as pessoas que amam ela. Espero que ela saiba disso.",
     image: "fotos/1000047744.jpg",
     sound: "ma.mp3"
   },
@@ -110,12 +105,12 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Fez com que ela ficasse famosa! (eu si divirto com essa foto)",
+    text: "Fez com que ela ficasse famosa! (eu ainda rio com essa foto)",
     image: "fotos/nse-6593644393319663142-1715555951262.jpg.jpg",
     sound: "ma.mp3"
   },
   {
-    text: "São muitas fotos excelentes pra um só site.",
+    text: "Juro, são muitas fotos e memórias excelentes pra um só site.",
     image: "fotos/nse-4844485910258128076-1715555342054.jpg.jpg",
     sound: "ma.mp3"
   },
@@ -155,7 +150,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Eu certamente não teria feito tudo que fiz nesses últimos anos sem seu brilho.",
+    text: "Eu certamente não teria feito tudo que fiz nesses últimos anos sem seu brilho. De verdade.",
     image: "fotos/1000055779.jpg",
     sound: "ma.mp3"
   },
@@ -165,17 +160,17 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Será que tu mudou muito?",
+    text: "Deu pra apreciar quão importante tu é? Ou pra refletir o quanto tu mudou?",
     image: "",
     sound: "ma.mp3"
   },
   {
-    text: "Eu penso demais em ti.",
+    text: "Eu penso demais em ti!",
     image: "",
     sound: "ma.mp3"
   },
   {
-    text: "E agradeço as estrelas por ter conhecido uma pessoa tão especial.",
+    text: "E agradeço TANTO por ter conhecido uma pessoa tão especial.",
     image: "",
     sound: "ma.mp3"
   },
@@ -185,7 +180,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Fez muito por mim com um bom ouvido, boas risadas e lóbulo frontal bem desenvolvido.",
+    text: "Fez muito por mim com gentileza, empatia, boas risadas e lóbulo frontal bem desenvolvido.",
     image: "",
     sound: "ma.mp3"
   },
@@ -195,7 +190,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "A vida nem sempre é fácil e eu quero que tu continue sendo tu. Então...",
+    text: "A vida nem sempre é fácil e uns desafios são sofridos. Continuaremos mudando. Porém...",
     image: "",
     sound: "ma.mp3"
   },
@@ -215,7 +210,7 @@ const dialogue = [
     sound: "pi.mp3"
   },
   {
-    text: "Continuarei sendo a pessoa mais extraordinária que o Luís já conheceu.",
+    text: "Continuarei presente e extraordinária do meu jeito.",
     image: "",
     sound: "pi.mp3"
   },
