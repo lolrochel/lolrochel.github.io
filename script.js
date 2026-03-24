@@ -160,7 +160,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Será que ela mudou muito?",
+    text: "Será que tu mudou muito?",
     image: "",
     sound: "ma.mp3"
   },
@@ -175,12 +175,12 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Eu não acho que eu estaria aqui sem você. Mari me segurou em momentos difíceis quando a vida não era gentil.",
+    text: "Eu não acho que eu estaria aqui sem você. Você me segurou quando a vida não foi gentil.",
     image: "",
     sound: "ma.mp3"
   },
   {
-    text: "Ela fez muito por mim, mesmo quando ela só existia por perto.",
+    text: "Ela fez muito por mim com um bom ouvido, boas risadas e lóbulo frontal bem desenvolvido.",
     image: "",
     sound: "ma.mp3"
   },
@@ -190,7 +190,12 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Apesar de tudo que acontecer, repita:",
+    text: "A vida não é fácil às vezes e eu quero que tu continue sendo tu. Então...",
+    image: "",
+    sound: "ma.mp3"
+  },
+  {
+    text: "apesar de tudo que acontecer, repita:",
     image: "",
     sound: "ma.mp3"
   },
@@ -205,8 +210,8 @@ const dialogue = [
     sound: "pi.mp3"
   },
   {
-    text: "Continuarei sendo a pessoa mais foda que o luís já conheceu.",
-    image: "fotos/1774351727336.jpg",
+    text: "Continuarei sendo a pessoa mais extraordinária que o Luís já conheceu.",
+    image: "",
     sound: "pi.mp3"
   },
   {
