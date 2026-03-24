@@ -80,7 +80,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "...tu ainda sabe dirigir?",
+    text: "Irrelevante se ela usa a CNH ou não.",
     image: "fotos/1000055905.jpg",
     sound: "ma.mp3"
   },
@@ -90,7 +90,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Tu lembra que abrimos uma academia de artes no gymrats? Será que seu quarto mudou?",
+    text: "Ela inspirou uma academia de artes no gymrats. Será que o quarto dela mudou?",
     image: "fotos/nse-98606783224790500-1715555341947.jpg.jpg",
     sound: "ma.mp3"
   },
@@ -125,7 +125,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "...mas, às vezes, ela é muito tentadora. Manda umas fotos safadas...",
+    text: "...mas, às vezes, ela é muito tentadora. Manda umas fotos ousadas...",
     image: "",
     sound: "ma.mp3"
   },
@@ -145,7 +145,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Ela tem um coração tão grande que infarta num evento voluntário.",
+    text: "Ela tem um coração tão grande que infarta num evento voluntário. Me inveja.",
     image: "fotos/voluntarioundokaimaki_teve um infarto_so um velho parou e checou.jpg",
     sound: "ma.mp3"
   },
@@ -185,7 +185,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Ela fez muito por mim com um bom ouvido, boas risadas e lóbulo frontal bem desenvolvido.",
+    text: "Fez muito por mim com um bom ouvido, boas risadas e lóbulo frontal bem desenvolvido.",
     image: "",
     sound: "ma.mp3"
   },
@@ -225,7 +225,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "FIM e feliz aniversário!!!",
+    text: "FIM e feliz aniversário!",
     image: "",
     sound: "ma.mp3"
   }
