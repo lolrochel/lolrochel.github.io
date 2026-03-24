@@ -211,7 +211,7 @@ const dialogue = [
   },
   {
     text: "Continuarei presente e extraordinária do meu jeito.",
-    image: "",
+    image: "fotos/marihj.jpg",
     sound: "pi.mp3"
   },
   {
