@@ -16,7 +16,6 @@ body::before {
   left: 0;
 }
 
-/* Dialogue box */
 #dialogueBox {
   position: absolute;
   bottom: 50px;
@@ -31,7 +30,6 @@ body::before {
   font-size: 18px;
 }
 
-/* Pixels */
 .pixel {
   position: absolute;
   width: 3px;

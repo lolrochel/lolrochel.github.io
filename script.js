@@ -1,4 +1,3 @@
-// Dialogue lines
 const dialogue = [
   {
     text: "se eu clicar vai recomeçar hihi haha",
@@ -241,7 +240,6 @@ function showDialogue(entry) {
   typeText(entry.text, entry.sound);
 }
 
-// Start music on first click (browser restriction workaround)
 document.body.addEventListener("click", () => {
   bgMusic.play().catch(() => {});
 }, { once: true });
@@ -269,7 +267,6 @@ function typeText(text, soundSrc, i = 0) {
   }
 }
 
-// Click to advance dialogue
 box.addEventListener("click", () => {
   if (isTyping) return;
 
@@ -279,7 +276,6 @@ box.addEventListener("click", () => {
   showDialogue(dialogue[index]);
 });
 
-// Floating pixels
 function createPixel() {
   const pixel = document.createElement("div");
   pixel.classList.add("pixel");
