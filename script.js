@@ -25,7 +25,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Independente da autenticidade, a amizade ridícula é a melhor."
+    text: "Independente da autenticidade, a amizade ridícula é a melhor.",
     image: "fotos/1000059490.jpg",
     sound: "ma.mp3"
   },
