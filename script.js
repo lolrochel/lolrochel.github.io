@@ -50,17 +50,17 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "A pictoresca me fez aprender a continuar tentando até conseguir.",
+    text: "A pictoresca me fez aprender a tentar sem tanto medo.",
     image: "",
     sound: "ma.mp3"
   },
   {
-    text: "Tentamos muito e espero conseguir dessa vez!!!",
+    text: "Boa sorte!",
     image: "fotos/1000056634.jpg",
     sound: "ma.mp3"
   },
   {
-    text: "Alguns hobbies ficam em HIATO.",
+    text: "Alguns hobbies ficam em hiato, mas a paixão não some.",
     image: "fotos/1774351727491.jpg",
     sound: "ma.mp3"
   },
@@ -70,7 +70,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "às vezes pausamos, mas tu já viu essa desgraçada desistir da vida?",
+    text: "mas sempre é bom conteúdo.",
     image: "fotos/1774351727127.jpg",
     sound: "ma.mp3"
   },
@@ -95,27 +95,27 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Algumas coisas não mudaram muito. Algumas melhoraram!",
+    text: "Algumas coisas não mudaram muito.",
     image: "fotos/1000047655.jpg",
     sound: "ma.mp3"
   },
   {
-    text: "Dá pra sentir o quanto ela ama as pessoas que amam ela. Falo por experiência.",
+    text: "Dá pra sentir o quanto ela ama as pessoas que amam ela.",
     image: "fotos/1000047744.jpg",
     sound: "ma.mp3"
   },
   {
-    text: "Ela se tornou extremamente famosa com a música!",
+    text: "Música é incrível.",
     image: "fotos/nse-2515942221337976915-1715555951227.jpg.jpg",
     sound: "ma.mp3"
   },
   {
-    text: "Apareceu nas grandes mídias! (eu ainda gargalho com essa foto)",
+    text: "Fez com que ela ficasse famosa! (eu si divirto com essa foto)",
     image: "fotos/nse-6593644393319663142-1715555951262.jpg.jpg",
     sound: "ma.mp3"
   },
   {
-    text: "Ela tem fotos muito boas!",
+    text: "São muitas fotos excelentes pra um só site.",
     image: "fotos/nse-4844485910258128076-1715555342054.jpg.jpg",
     sound: "ma.mp3"
   },
@@ -125,7 +125,12 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "...mas ela é muito tentadora às vezes. Manda umas fotos safadas...",
+    text: "...mas, às vezes, ela é muito tentadora. Manda umas fotos safadas...",
+    image: "",
+    sound: "ma.mp3"
+  },
+  {
+    text: "(nsfw cuidado)",
     image: "",
     sound: "ma.mp3"
   },
@@ -140,12 +145,12 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Ela tem um coração tão grande que infartou num evento voluntário uma vez!",
+    text: "Ela tem um coração tão grande que infarta num evento voluntário.",
     image: "fotos/voluntarioundokaimaki_teve um infarto_so um velho parou e checou.jpg",
     sound: "ma.mp3"
   },
   {
-    text: "Espero que tu continue amando e perseguindo aventuras boas pra sempre, biscoito.",
+    text: "Espero que tu continue em aventuras boas pra sempre, biscoito.",
     image: "fotos/1000055240.jpg",
     sound: "ma.mp3"
   },
@@ -165,7 +170,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Eu sempre penso em ti e tenho vontade de te incomodar.",
+    text: "Eu penso demais em ti.",
     image: "",
     sound: "ma.mp3"
   },
@@ -190,12 +195,12 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "A vida não é fácil às vezes e eu quero que tu continue sendo tu. Então...",
+    text: "A vida nem sempre é fácil e eu quero que tu continue sendo tu. Então...",
     image: "",
     sound: "ma.mp3"
   },
   {
-    text: "apesar de tudo que acontecer, repita:",
+    text: "apesar do que aconteça, por favor, prometa que:",
     image: "",
     sound: "ma.mp3"
   },
@@ -215,12 +220,12 @@ const dialogue = [
     sound: "pi.mp3"
   },
   {
-    text: "Você me ensinou que eu amo você demais, sua boiola chorona. Tenha um feliz aniversário!",
+    text: "Você me ensinou que eu posso amar demais você, sua boiola chorona.",
     image: "fotos/1774351727176.jpg",
     sound: "ma.mp3"
   },
   {
-    text: "FIM",
+    text: "FIM e feliz aniversário!!!",
     image: "",
     sound: "ma.mp3"
   }
