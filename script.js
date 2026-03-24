@@ -36,7 +36,7 @@ const dialogue = [
   },
   {
     text: "Posso compartilhar contigo?",
-    image: "fotos/1774351727425.jpg",
+    image: "",
     sound: "ma.mp3"
   },
   {
