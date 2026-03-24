@@ -198,15 +198,15 @@ const dialogue = [
     text: "apesar do que aconteça, por favor, prometa que:",
     image: "",
     sound: "ma.mp3"
+  {
+    text: "Continuarei sendo eu.",
+    image: "fotos/1774351727396.jpg",
+    sound: "pi.mp3"
+  },
   },
   {
     text: "Não vou deixar minha essência morrer.",
     image: "fotos/1774351727475.jpg",
-    sound: "pi.mp3"
-  },
-  {
-    text: "Continuarei sendo eu.",
-    image: "fotos/1774351727396.jpg",
     sound: "pi.mp3"
   },
   {
@@ -215,7 +215,7 @@ const dialogue = [
     sound: "pi.mp3"
   },
   {
-    text: "Você me ensinou que eu posso amar demais você, sua boiola chorona.",
+    text: "Você ensina que eu dá pra amar muito uma pessoa, sua boiola chorona.",
     image: "fotos/1774351727176.jpg",
     sound: "ma.mp3"
   },
