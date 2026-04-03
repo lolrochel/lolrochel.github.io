@@ -55,7 +55,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Alguns hobbies ficam em hiato, mas a paixão não some.",
+    text: "Alguns hobbies ficam em hiato, mas a paixão não some. Recentemente, alguns saíram do hiato!",
     image: "fotos/1774351727491.jpg",
     sound: "ma.mp3"
   },
@@ -140,7 +140,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Ela tem um coração tão grande que infarta num evento voluntário. Me inveja.",
+    text: "Ela tem um coração tão grande que infarta num evento voluntário.",
     image: "fotos/voluntarioundokaimaki_teve um infarto_so um velho parou e checou.jpg",
     sound: "ma.mp3"
   },
@@ -150,7 +150,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Eu certamente não teria feito tudo que fiz nesses últimos anos sem seu brilho. De verdade.",
+    text: "Eu certamente não teria evoluído tanto nesses últimos anos sem seu brilho. De verdade.",
     image: "fotos/1000055779.jpg",
     sound: "ma.mp3"
   },
@@ -160,12 +160,12 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Deu pra apreciar quão importante tu é? Ou pra refletir o quanto tu mudou?",
+    text: "Era conteúdo pro wrapped egg e me fez apreciar sua presença nesse mundinho.",
     image: "",
     sound: "ma.mp3"
   },
   {
-    text: "Eu penso demais em ti!",
+    text: "E refletir o quanto tu mudou.",
     image: "",
     sound: "ma.mp3"
   },
@@ -175,7 +175,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "Eu não acho que eu estaria aqui sem você. Você me segurou quando a vida não foi gentil.",
+    text: "Você me segurou quando a vida não foi gentil.",
     image: "",
     sound: "ma.mp3"
   },
@@ -198,24 +198,24 @@ const dialogue = [
     text: "apesar do que aconteça, por favor, prometa que:",
     image: "",
     sound: "ma.mp3"
+  },
   {
     text: "Continuarei sendo eu.",
     image: "fotos/1774351727396.jpg",
     sound: "pi.mp3"
   },
-  },
   {
-    text: "Não vou deixar minha essência morrer.",
+    text: "Cheia de bobeira, de gentileza, de amor. Sempre querendo melhorar e viver.",
     image: "fotos/1774351727475.jpg",
     sound: "pi.mp3"
   },
   {
-    text: "Continuarei presente e extraordinária do meu jeito.",
+    text: "Continuarei extraordinária do meu jeito.",
     image: "fotos/marihj.jpg",
     sound: "pi.mp3"
   },
   {
-    text: "Você ensina que eu dá pra amar muito uma pessoa, sua boiola chorona.",
+    text: "Obrigado por me ensinar a amar tanto uma amiga boiola chorona!",
     image: "fotos/1774351727176.jpg",
     sound: "ma.mp3"
   },
