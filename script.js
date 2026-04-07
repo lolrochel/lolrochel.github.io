@@ -115,7 +115,7 @@ const dialogue = [
     sound: "ma.mp3"
   },
   {
-    text: "olha o estilo DA GATA",
+    text: "olha o estilo DA GATA. DIVERSAS fotos DIVERSAS. Gosto muito dessa.",
     image: "fotos/1774351727301.jpg",
     sound: "ma.mp3"
   },
