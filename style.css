@@ -27,7 +27,7 @@ body::before {
   cursor: pointer;
   width: 60%;
   text-align: center;
-  font-size: 18px;
+  font-size: 32px;
 }
 
 .pixel {
