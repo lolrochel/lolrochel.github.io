@@ -141,7 +141,7 @@ const dialogue = [
   },
   {
     text: "Ela tem um coração tão grande que infarta num evento voluntário.",
-    image: "fotos/voluntarioundokaimaki_teve um infarto_so um velho parou e checou.jpg",
+    image: "fotos/voluntario.jpg",
     sound: "ma.mp3"
   },
   {
@@ -295,3 +295,11 @@ function createPixel() {
 }
 
 setInterval(createPixel, 80);
+
+window.addEventListener("load", () => {
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("/service-worker.js")
+      .then(() => console.log("Service Worker registered"))
+      .catch(err => console.log("SW failed:", err));
+  }
+});
